@@ -16,29 +16,18 @@ Este programa interativo foi desenvolvido para ajudar você a entender melhor su
 O objetivo deste programa é promover o cuidado com o corpo e a saúde de forma prática e personalizada. Ele não substitui o acompanhamento médico, sendo importante consultar um profissional de saúde antes de fazer mudanças significativas no seu estilo de vida.
 
 ## Como Executar
+Você pode executar o programa diretamente no ambiente **Google Colab**. Siga os passos abaixo:
 
-1. Clone o repositório para o seu ambiente local:
+1. Abra o arquivo principal **Calculadora de Saúde.ipynb** no repositório.
+2. Clique no botão que diz "Abrir no Colab" ou copie o arquivo para o Google Colab.
+3. Após abrir o código no Colab, clique no botão de iniciar (uma seta à esquerda do código) para executar o programa.
+4. Siga as instruções interativas no ambiente para aproveitar as funcionalidades.
 
-   ```bash
-   git clone https://github.com/rhyan05/hydration-helper.git
-   ```
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd hydration-helper
-   ```
-
-3. Execute o programa com Python (certifique-se de ter o Python instalado no seu sistema):
-
-   ```bash
-   python main.py
-   ```
 
 ## Tecnologias Utilizadas
 
 - **Linguagem:** Python
-- **Estilo de Código:** Simples e interativo, projetado para rodar diretamente no terminal.
+- **Google Colab**: Plataforma recomendada para execução do programa diretamente na nuvem.
 
 ## Contribuição
 
